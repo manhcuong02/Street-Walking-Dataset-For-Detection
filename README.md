@@ -1,4 +1,4 @@
-# Street-Walking-Dataset-For-Vehicle-Detection
+# Street-Walking-Dataset-For-Detection
 
 Coming soon
 
