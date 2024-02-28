@@ -9,3 +9,5 @@ My dataset:
 - Annotated objects include those that are small and distant from the recording position, those visible to the naked eye when zoomed in, as well as objects displayed in full or partially obscured.
 - This dataset is appropriately labeled for tasks such as detecting vehicles of various sizes, thus enhancing object detection performance, particularly for smaller objects, across different aforementioned conditions.
 - The dataset comprises 6 classes: person, car, bicycle, motorcycle, bus, and truck.
+
+![Tên hình ảnh](images/image_1.png)
