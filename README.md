@@ -10,4 +10,4 @@ My dataset:
 - This dataset is appropriately labeled for tasks such as detecting vehicles of various sizes, thus enhancing object detection performance, particularly for smaller objects, across different aforementioned conditions.
 - The dataset comprises 6 classes: person, car, bicycle, motorcycle, bus, and truck.
 
-![Tên hình ảnh](images/image_1.jpg)
+![Tên hình ảnh](images/image_1.png)
