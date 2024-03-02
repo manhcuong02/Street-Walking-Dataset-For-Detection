@@ -37,10 +37,10 @@ The dataset comprises six primary classes:
 
 ## Some images are labeled in Label Studio 
 
-<img src="images/image_1.png" width="450"/> <img src="images/image_2.png" width="450"/> 
-<img src="images/image_3.png" width="450"/> <img src="images/image_4.png" width="450"/> 
-<img src="images/image_5.png" width="450"/> <img src="images/image_6.png" width="450"/> 
-<img src="images/image_7.png" width="450"/> <img src="images/image_8.png" width="450"/> 
+<img src="images/image_1.png" width="425"/> <img src="images/image_2.png" width="425"/> 
+<img src="images/image_3.png" width="425"/> <img src="images/image_4.png" width="425"/> 
+<img src="images/image_5.png" width="425"/> <img src="images/image_6.png" width="425"/> 
+<img src="images/image_7.png" width="425"/> <img src="images/image_8.png" width="425"/> 
 
 # Acknowledgement and Support Request
 
