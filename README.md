@@ -1,12 +1,12 @@
-## Street-Walking-Dataset-For-Detection
+# Street-Walking-Dataset-For-Detection
 
-# Overview
+## Overview
 Welcome to the Street-Walking Dataset for Object Detection! This dataset offers a comprehensive collection of street scenes from two dynamic cities: Hanoi and New York City. Captured by the renowned [WALKS and the CITY](https://www.youtube.com/@WALKS_and_the_CITY) and [Vietnam Walking Tours](https://www.youtube.com/@vietnam4kwalking) channels, our dataset provides a rich resource for urban research and computer vision tasks.
 
-# Download Link
+## Download Link
 Download the dataset [here](https://drive.google.com/file/d/18nLwBlh3OcsWDuMp9Nh6Rn9bkJ2LitTD/view?usp=sharing).
 
-# Dataset Details
+## Dataset Details
 - Size: : The dataset consists of 2499 images extracted from videos provided by the two aforementioned channels. Each image is selected at intervals of 240 frames from the videos.
 - Annotation: Leveraging the power of yolov8x and label-studio, the dataset is meticulously annotated, ensuring precise labeling of objects.
 - Annotated Objects: The dataset covers a wide array of objects, ranging from pedestrians to various vehicles including cars, bicycles, motorcycles, buses, and trucks. Each object is annotated with utmost accuracy, capturing their presence even in challenging scenarios such as partial obstructions or distant perspectives.
@@ -14,14 +14,14 @@ Download the dataset [here](https://drive.google.com/file/d/18nLwBlh3OcsWDuMp9Nh
 - Enhanced Object Detection: Designed with a focus on vehicle detection, the dataset is tailored to enhance object detection performance, particularly for smaller objects. This optimization ensures superior model performance across a wide range of conditions and scenarios.
 
 
-# Use Cases
+## Use Cases
 The Street-Walking Dataset for Object Detection is ideal for a multitude of research and development tasks, including:
 - Pedestrian and vehicle detection
 - Autonomous vehicle navigation
 - Traffic monitoring and analysis
 - Environmental perception for robotics
 
-# Classes
+## Classes
 The dataset comprises six primary classes:
 - Person
 - Car
@@ -35,7 +35,7 @@ The dataset comprises six primary classes:
 
 - This disclaimer emphasizes the dataset's intended use for educational and research purposes only and explicitly prohibits its use for commercial activities or resale
 
-# Some images are labeled in Label Studio 
+## Some images are labeled in Label Studio 
 
 <img src="images/image_1.png" width="500"/> <img src="images/image_2.png" width="500"/> 
 <img src="images/image_3.png" width="500"/> <img src="images/image_4.png" width="500"/> 
